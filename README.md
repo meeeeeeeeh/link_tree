@@ -7,13 +7,8 @@ Your link tree should have:
 2. Your name & social media handles
 3. A series of mid size headings that link to examples of your work, your profiles and anything else that you're proud of.
 
-## Example
 
-![](resources/01_challenge1.png)
 
-<details> <summary> 💡 Hints </summary>
+resources:
   
 - The [W3 Schools](https://www.w3schools.com/css/) website is an absolute goldmine for HTML and CSS resources.
-
-
-</details>
